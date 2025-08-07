@@ -1,0 +1,1 @@
+Wzmacniacz audio klasy D 2.1 oparty na TPA3116D2, z filtrem dolnoprzepustowym Sallen-Key, regulacją barwy (Baxandall), zasilaniem 24 V, interfejsem Bluetooth 4.2 (MH-M18) i wejściem AUX. Projekt PCB 4-warstwowy z filtracją EMI i optymalizacją ścieżek sygnałowych.
